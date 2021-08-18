@@ -1,5 +1,7 @@
 # GC
-Implementation of some casual games running on Sapphire. The games are Mah Jongg Solitare, Solitare (Klondike), a Tetris clone, and an anagram game
+Implementation of some casual games running on Sapphire. The games are Mah Jongg Solitare, Solitare (Klondike), a Tetris clone, and an anagram game.
+
+This project is live at this url: https://apps.uber-geek.com/gc
 
 ## Getting Started
 To run this locally, clone the repository, and from the root of it, run these two commands.
